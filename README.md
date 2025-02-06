@@ -1,8 +1,7 @@
 # Advanced Document Processing System
+![1 1](https://github.com/user-attachments/assets/eb313cd2-37a8-4573-a8a6-0dd6c3c8ed95)
 
-<img width="1440" alt="Screenshot 2025-02-05 at 9 12 04 PM" src="https://github.com/user-attachments/assets/98f83dfd-0666-413f-98da-ed96fce32bf8" />
-
-<img width="1440" alt="Screenshot 2025-02-05 at 9 12 50 PM" src="https://github.com/user-attachments/assets/5e6e3f90-dc99-4646-bca3-5e194f130762" />
+![1 2](https://github.com/user-attachments/assets/c0c4f668-6036-4fad-8514-757b145b8e4a)
 
 <img width="1440" alt="Screenshot 2025-02-05 at 9 17 40 PM" src="https://github.com/user-attachments/assets/7db09db1-149b-47c2-a110-ee5b0fa9f686" />
 
