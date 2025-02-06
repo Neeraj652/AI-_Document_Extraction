@@ -1,6 +1,6 @@
 # Advanced Document Processing System
 
-![41sec](https://github.com/user-attachments/assets/046ad8d4-aa3d-4fcf-b579-c30f9e503f69)
+<img src="https://github.com/user-attachments/assets/046ad8d4-aa3d-4fcf-b579-c30f9e503f69" width="600">
 
 
 
