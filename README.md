@@ -14,8 +14,6 @@ The Advanced Document Processing System is a web application designed to automat
 
 ### Frontend:
 - **React.js:** Used for building the interactive UI.
-- **Tailwind CSS:** Ensures a modern and responsive design.
-- **Lucide Icons:** Provides clean and sharp icons for UI elements.
 
 ### Backend:
 - **Flask:** Serves as the backend framework for handling API requests.
