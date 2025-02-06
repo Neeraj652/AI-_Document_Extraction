@@ -1,10 +1,15 @@
 # Advanced Document Processing System
 
+![41sec](https://github.com/user-attachments/assets/046ad8d4-aa3d-4fcf-b579-c30f9e503f69)
+
+
+
 ## Overview
 The Advanced Document Processing System is a web application designed to automate document extraction, classification, and validation.
 
 ## Key Features
 - **Automated Document Classification:** Uses NLP techniques to identify provider names, document types, states, expiration dates, and categories.
+
 - **Text Extraction:** Supports OCR-based text extraction from images and scanned PDFs.
 - **Drag-and-Drop File Upload:** Users can upload documents easily via a web interface.
 - **Real-Time Processing:** Extracted data is processed instantly and categorized accordingly.
