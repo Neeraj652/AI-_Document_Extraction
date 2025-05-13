@@ -14,11 +14,11 @@ from typing import Dict, List, Tuple
 import nltk
 import logging
 
-# Initialize NLP components
+
 nltk.download('punkt')
 nlp = spacy.load("en_core_web_sm")
 
-# Initialize Flask app and logging
+
 app = Flask(__name__)
 CORS(app)
 logging.basicConfig(level=logging.INFO)
